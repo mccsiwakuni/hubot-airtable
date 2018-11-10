@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      "hubot-base-script",
+      "/tak"
+    ]
+  ],
+  "_from": "hubot-base-script@latest",
+  "_id": "hubot-base-script@0.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/hubot-base-script",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/hubot-base-script-0.0.2.tgz_1487777498716_0.5337277187500149"
+  },
+  "_npmUser": {
+    "email": "andrewl@resin.io",
+    "name": "sqweelygig"
+  },
+  "_npmVersion": "4.1.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "hubot-base-script",
+    "raw": "hubot-base-script",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/hubot-base-script/-/hubot-base-script-0.0.2.tgz",
+  "_shasum": "a552af03355f0a2618115c3fa6ec6ec694609791",
+  "_shrinkwrap": null,
+  "_spec": "hubot-base-script",
+  "_where": "/tak",
+  "author": {
+    "name": "Andrew Lucas",
+    "url": "andrewl@resin.io"
+  },
+  "dependencies": {
+    "coffee-script": "^1.12.2"
+  },
+  "description": "A simple hubot script that does nothing, to start development from",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a552af03355f0a2618115c3fa6ec6ec694609791",
+    "tarball": "https://registry.npmjs.org/hubot-base-script/-/hubot-base-script-0.0.2.tgz"
+  },
+  "keywords": [
+    "hubot",
+    "script"
+  ],
+  "license": "Apache-2.0",
+  "main": "main.coffee",
+  "maintainers": [
+    {
+      "name": "sqweelygig",
+      "email": "andrewl@resin.io"
+    }
+  ],
+  "name": "hubot-base-script",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.2"
+}
