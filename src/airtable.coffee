@@ -1,21 +1,20 @@
 # Description:
-#   Business cat is summoned when business jargon is used
+#   Airtable Hubot connection.
 #
 # Dependencies:
 #   None
 #
 # Configuration:
-#   HUBOT_BUSINESS_CAT_JARGON comma-separated list of additional "tiggers"
-#   HUBOT_BUSINESS_CAT_OMITTED_JARGON comma-separated list of triggers to ignore
+#   HUBOT_Airtable_Key your Airtable API Key
 #
 # Commands:
-#   Business jargon - summons business cat
+#   Test
 #
 # Notes:
-#   See jargon array for list of trigger phrases
+#   Beta testing of all
 #
 # Author:
-#   Morgan Wigmanich <okize123@gmail.com> (https://github.com/okize)
+#   J. Michael Browning <michael+bot@motech.io> (https://github.com/mccsiwakuni)
 
 module.exports = (robot) ->
   robot.hear /badger/i, (res) ->
